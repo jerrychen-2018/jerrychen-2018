@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Jerry Chen
 
 <!--
 **jerrychen-2018/jerrychen-2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Mobile App Development
+- 📫 How to reach me: jerrychen2018@gmail.com | https://www.linkedin.com/in/jerry-chen2018/
